@@ -1,126 +1,128 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
-<title>文章归档 | 五菱valli</title>
+<title>五菱valli</title>
+<meta name="description" content="温故而知新">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//favicon.ico?v=1619249895852">
+<link rel="shortcut icon" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//favicon.ico?v=1619249997185">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//styles/main.css">
 
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="温故而知新">
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com/">
-        <img src="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//images/avatar.png?v=1619249895852" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com/">
+        <img class="avatar" src="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//images/avatar.png?v=1619249997185" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com/">
         <h1 class="site-title">五菱valli</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="https://chenbinsnow.coding.net/chen" class="site-nav">
+          <a href="https://chenbinsnow.coding.net/chen" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="https://chenbinsnow.coding.net/chen/archives" class="site-nav">
+          <a href="https://chenbinsnow.coding.net/chen/archives" class="menu purple-link">
             归档
           </a>
         
       
         
-          <a href="https://chenbinsnow.coding.net/chen/tags" class="site-nav">
+          <a href="https://chenbinsnow.coding.net/chen/tags" class="menu purple-link">
             标签
           </a>
         
       
         
-          <a href="https://chenbinsnow.coding.net/chen/post/about" class="site-nav">
+          <a href="https://chenbinsnow.coding.net/chen/post/about" class="menu purple-link">
             关于
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      温故而知新
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
+        <div class="content-container">
+          
           
 
-          <h2 class="archives-title">文章归档</h2>
-          <div class="archives-container">
-            
-              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2018</h2>
-              
-                
-                  <article class="post">
-                    <a href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
-                      <h2 class="post-title">
-                        Hello Gridea
-                      </h2>
-                    </a>
-                  </article>
-                
-              
-            
-          </div>
-
-          <div class="pagination-container">
+<div class="archives-container">
   
+    <h2 class="year">2018</h2>
+    
+      
+        <article class="post">
+          <a href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+            <h2 class="post-title">
+              Hello Gridea
+              <small>2018-12-12</small>
+            </h2>
+          </a>
+        </article>
+      
+    
   
 </div>
 
+
         </div>
+
+        <div class="site-footer">
+  <div class="slogan">温故而知新</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://coding-pages-bucket-3556429-8694730-16539-585094-1305714811.cos-website.ap-hongkong.myqcloud.com//atom.xml" target="_blank">RSS</a>
+</div>
+
+
       </div>
-    </div>
+      <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -134,7 +136,6 @@ var app = new Vue({
 
 
 
-
-
+    </div>
   </body>
 </html>
