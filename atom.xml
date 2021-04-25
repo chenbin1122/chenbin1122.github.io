@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-04-25T03:38:01.181Z</updated>
+    <updated>2021-04-25T03:43:41.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
@@ -25,6 +25,18 @@
 6 应用和功能 的启动 项  不需要的应用都关掉<br>
 回到系统设置<br>
 7 隐私里的全部 关闭</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[window激活]]></title>
+        <id>https://chenbin1122.github.io/post/window-ji-huo/</id>
+        <link href="https://chenbin1122.github.io/post/window-ji-huo/">
+        </link>
+        <updated>2021-04-24T04:50:17.000Z</updated>
+        <content type="html"><![CDATA[<p>文本文件写入：<br>
+slmgr /skms kms.03k.org<br>
+slmgr /ato<br>
+存为bat文件，以管理员的方式进行运行，OK</p>
 ]]></content>
     </entry>
     <entry>
