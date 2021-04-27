@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-04-27T06:31:00.830Z</updated>
+    <updated>2021-04-27T08:27:50.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>知识无罪</subtitle>
     <logo>https://chenbin1122.github.io/images/avatar.png</logo>
     <icon>https://chenbin1122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 五菱valli</rights>
+    <entry>
+        <title type="html"><![CDATA[无法]]></title>
+        <id>https://chenbin1122.github.io/post/wu-fa/</id>
+        <link href="https://chenbin1122.github.io/post/wu-fa/">
+        </link>
+        <updated>2021-04-27T08:24:09.000Z</updated>
+        <content type="html"><![CDATA[<p>我的</p>
+<p>[www.baidu.com] (www.baidu.com)<br>
+我的</p>
+<p><a href="baidu.com">baidu.com</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在线工具]]></title>
         <id>https://chenbin1122.github.io/post/zai-xian-gong-ju/</id>
