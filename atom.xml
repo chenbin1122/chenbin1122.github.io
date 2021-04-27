@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-04-27T09:02:55.668Z</updated>
+    <updated>2021-04-27T09:17:35.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
@@ -18,15 +18,15 @@
         <updated>2021-04-27T06:15:06.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>PDF OCR 二维码生成 视频下载<br>
-<a href="https://cn.office-converter.com">多功能</a></p>
+<a href="https://cn.office-converter.com">office</a></p>
 <p>白猫OCR<br>
-[https://web.baimiaoapp.com/]</p>
+<a href="https://web.baimiaoapp.com/">白猫</a></p>
 <!-- more -->
 <p>在线翻译<br>
-[www.deepl.com/translator]</p>
+<a href="www.deepl.com/translator">在线翻译</a></p>
 <!-- more -->
 <p>资料搜索<br>
-[https://dalipan.com/]</p>
+<a href="https://dalipan.com/">资料库</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -36,11 +36,11 @@
         </link>
         <updated>2021-04-26T11:58:20.000Z</updated>
         <content type="html"><![CDATA[<p>孔夫子旧书（最全）<br>
-[https://www.kongfz.com/]</p>
+()[https://www.kongfz.com/]</p>
 <p>中国图书网<br>
-[http://www.bookschina.com/]</p>
+(中国图书网)[http://www.bookschina.com/]</p>
 <p>有路网（沟通不便）<br>
-[https://www.youlu.net/]</p>
+(有路)[https://www.youlu.net/]</p>
 <p>多抓鱼<br>
 微信小程序</p>
 ]]></content>
