@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-04-27T11:02:33.234Z</updated>
+    <updated>2021-05-02T11:40:27.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://chenbin1122.github.io/images/avatar.png</logo>
     <icon>https://chenbin1122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 五菱valli</rights>
+    <entry>
+        <title type="html"><![CDATA[我的看过觉得不错的电影]]></title>
+        <id>https://chenbin1122.github.io/post/wo-de-dian-ying/</id>
+        <link href="https://chenbin1122.github.io/post/wo-de-dian-ying/">
+        </link>
+        <updated>2021-05-02T11:20:15.000Z</updated>
+        <content type="html"><![CDATA[<p>乔乔的异想世界（纳粹战败前，纳粹狂热分子乔乔的故事）<br>
+调音师（社会让你猜不透）<br>
+绿皮书（黑人钢琴师和白人司机）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的书单]]></title>
+        <id>https://chenbin1122.github.io/post/wo-de-shu-dan/</id>
+        <link href="https://chenbin1122.github.io/post/wo-de-shu-dan/">
+        </link>
+        <updated>2021-04-29T11:22:31.000Z</updated>
+        <content type="html"><![CDATA[<p>1、月亮与六便士<br>
+2、面纱<br>
+3、刀锋<br>
+4、百年孤独<br>
+5、呼啸山庄<br>
+6、活着<br>
+7、兄弟<br>
+8、麦田的守望者<br>
+9、1984/动物农场<br>
+10、瓦尔登湖（可能不太适合和我，家里有，读不下）<br>
+11、追风筝的人<br>
+12、一个人的朝圣<br>
+适合女生看的：<br>
+13、荆棘鸟1<br>
+4、飘<br>
+15、挪威的森林<br>
+16、成为简奥斯汀<br>
+17、简爱<br>
+18、傲慢与偏见<br>
+温暖一点的<br>
+19、小王子<br>
+20、解忧杂货店</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在线工具]]></title>
         <id>https://chenbin1122.github.io/post/zai-xian-gong-ju/</id>
