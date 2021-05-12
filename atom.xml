@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-05-05T08:59:53.014Z</updated>
+    <updated>2021-05-12T13:38:50.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://chenbin1122.github.io/images/avatar.png</logo>
     <icon>https://chenbin1122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 五菱valli</rights>
+    <entry>
+        <title type="html"><![CDATA[我的全套羽球]]></title>
+        <id>https://chenbin1122.github.io/post/wo-de-quan-tao-yu-qiu/</id>
+        <link href="https://chenbin1122.github.io/post/wo-de-quan-tao-yu-qiu/">
+        </link>
+        <updated>2021-05-11T14:30:55.000Z</updated>
+        <content type="html"><![CDATA[<p>球拍</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在spyder中安装python但是在cmd中找不到]]></title>
+        <id>https://chenbin1122.github.io/post/zai-spyder-zhong-an-zhuang-python-dan-shi-zai-cmd-zhong-zhao-bu-dao/</id>
+        <link href="https://chenbin1122.github.io/post/zai-spyder-zhong-an-zhuang-python-dan-shi-zai-cmd-zhong-zhao-bu-dao/">
+        </link>
+        <updated>2021-05-11T04:52:22.000Z</updated>
+        <content type="html"><![CDATA[<p>打开anaconda下面的命令行，输入<br>
+python(进入python的命令行)<br>
+import sys<br>
+sys.path<br>
+即可找到python的安装位置，在系统变量的 path 中添加python的安装路径即可</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的看过觉得不错的电影]]></title>
         <id>https://chenbin1122.github.io/post/wo-de-dian-ying/</id>
