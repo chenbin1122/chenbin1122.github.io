@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chenbin1122.github.io</id>
     <title>五菱valli</title>
-    <updated>2021-06-03T12:53:36.458Z</updated>
+    <updated>2021-06-15T11:07:26.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chenbin1122.github.io"/>
     <link rel="self" href="https://chenbin1122.github.io/atom.xml"/>
@@ -10,6 +10,83 @@
     <logo>https://chenbin1122.github.io/images/avatar.png</logo>
     <icon>https://chenbin1122.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 五菱valli</rights>
+    <entry>
+        <title type="html"><![CDATA[出租车从业资格证的总结]]></title>
+        <id>https://chenbin1122.github.io/post/chu-zu-che-cong-ye-zi-ge-zheng-de-zong-jie/</id>
+        <link href="https://chenbin1122.github.io/post/chu-zu-che-cong-ye-zi-ge-zheng-de-zong-jie/">
+        </link>
+        <updated>2021-06-15T11:05:16.000Z</updated>
+        <content type="html"><![CDATA[<p>1分 不按意愿使用空调的</p>
+<p>3分 不适用礼貌用语<br>
+不给发票<br>
+出具不完整、打印不清晰的专用发票的<br>
+绕道未经同意<br>
+5分 不安计价器收费的<br>
+对外宾不适用简单用语<br>
+未携带从业<br>
+不参加培训<br>
+不熟悉道路<br>
+吸烟、接听手机<br>
+不按照规定继续教育<br>
+未按照规定停放车辆揽客<br>
+10分 重大交通事故次要责任<br>
+伪造从业资格<br>
+擅自将出租车辆改作他用或无故停驶的<br>
+拒绝接受投诉处理<br>
+中断服务<br>
+运输危险品<br>
+20分 交给五从业的人<br>
+擅自从事经营活动<br>
+私自留存顾客东西<br>
+总人口383<br>
+与违法行为作斗争 加5分<br>
+拾金不昧加3分<br>
+抢险救灾，公益 加1分<br>
+白草殿距离承德40<br>
+兴隆距天津176，北京142，唐山145，承德140   140到167 城北唐天<br>
+兴隆溶洞在陶家台<br>
+蟠龙湖距离宽城25<br>
+双滦距离市区11.5</p>
+<p>滦河27公里<br>
+双塔山3000公顷<br>
+陈德3.65<br>
+后视镜20米<br>
+人口383<br>
+后龙禁地<br>
+雾灵山海拔2118<br>
+营子区高速<br>
+风景大道的全长180<br>
+双塔山面积3000<br>
+昏迷后应当平卧<br>
+不配备相关设备的罚10000<br>
+擅自从事出租车活动的罚款5000以上<br>
+伪造营运证5000<br>
+违法使用乘客信息的2000<br>
+伪造票据500</p>
+<p>继续教育由经营者组织<br>
+承德的绿化是北京的15倍<br>
+六里坪13里<br>
+承钢在双滦<br>
+水库四合<br>
+塞罕坝106<br>
+承德保护区14 23 20<br>
+双滦距离承德11.5<br>
+围场距离北京340<br>
+雾灵山2118<br>
+主要责任15%<br>
+服务评价指标80%<br>
+服务标志100%<br>
+车载卫星合格率95%<br>
+报保险后5日<br>
+46<br>
+51 1到10 为A<br>
+60<br>
+73<br>
+77<br>
+82<br>
+心脏病半坐</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sublime text的初始化设置]]></title>
         <id>https://chenbin1122.github.io/post/sublime-text-de-chu-shi-hua-she-zhi/</id>
@@ -147,38 +224,6 @@ sys.path<br>
 slmgr /skms kms.03k.org<br>
 slmgr /ato<br>
 存为bat文件，以管理员的方式进行运行，OK</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chenbin1122.github.io/post/hello-gridea/</id>
-        <link href="https://chenbin1122.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
